@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Chemical",
+  "base_artist": "Post Malone",
+  "createdAt": "2026-02-25T03:36:36.236291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chemical Drugs",
+      "artist": "Le Sport",
+      "has_synced": false,
+      "path": "select/01_Chemical_Drugs_Le_Sport.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chemical Marriage",
+      "artist": "Mr. Bungle",
+      "has_synced": true,
+      "path": "select/02_Chemical_Marriage_Mr._Bungle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Delta Sun Bottleneck Stomp (Chemical Brothers remix)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/03_Delta_Sun_Bottleneck_Stomp_(Chemical_Brothers_remix)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Delta Sun Bottleneck Stomp (Chemical Brothers Mix)",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/04_Delta_Sun_Bottleneck_Stomp_(Chemical_Brothers_Mix)_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chemical Warfare",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/05_Chemical_Warfare_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chemical Wedding",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/06_Chemical_Wedding_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burning Wheel - Chemical Brothers Remix",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/07_Burning_Wheel_-_Chemical_Brothers_Remix_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chemical World",
+      "artist": "Blur",
+      "has_synced": false,
+      "path": "select/08_Chemical_World_Blur.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Falling Down - The Chemical Brothers remix",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Falling_Down_-_The_Chemical_Brothers_remix_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Swastika Eyes - Chemical Brothers Mix",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/10_Swastika_Eyes_-_Chemical_Brothers_Mix_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Swastika Eyes (Chemical Brothers Mix)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/11_Swastika_Eyes_(Chemical_Brothers_Mix)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bug Powder Dust (Chemical Brothers mix)",
+      "artist": "Bomb the Bass",
+      "has_synced": false,
+      "path": "select/12_Bug_Powder_Dust_(Chemical_Brothers_mix)_Bomb_the_Bass.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chemical'",
+      "artist": "UNKLE feat. Josh Homme",
+      "has_synced": true,
+      "path": "select/13_Chemical'_UNKLE_feat._Josh_Homme.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chemical (feat. Josh Homme)",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/14_Chemical_(feat._Josh_Homme)_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "chemical",
+      "artist": "LiL Lotus feat. Horse Head",
+      "has_synced": false,
+      "path": "select/15_chemical_LiL_Lotus_feat._Horse_Head.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "chemical",
+      "artist": "LIL LOTUS",
+      "has_synced": false,
+      "path": "select/16_chemical_LIL_LOTUS.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Slow - Chemical Brothers Remix; Edit",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/17_Slow_-_Chemical_Brothers_Remix;_Edit_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Like a Motorway (Chemical Brothers Mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/18_Like_a_Motorway_(Chemical_Brothers_Mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chemical",
+      "artist": "Post Malone",
+      "has_synced": false,
+      "path": "select/pl_01_Chemical_Post_Malone.txt"
+    }
+  ]
+}
